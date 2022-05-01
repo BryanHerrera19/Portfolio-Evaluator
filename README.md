@@ -11,6 +11,17 @@ Overview:
 Takes a block of code from a small imperative language that was assigned, and outputs
 each tokens type, creates an AST tree, and outputs the value of each variable.
 
+Example Input:
+if 2 * 5 - 8 then
+  x := 0;
+while x * 4 - 2 do
+  skip
+endwhile
+else
+  x := 7
+endif;
+  y := 1
+  
 Example Output:
 
 ![Token List](https://github.com/BryanHerrera19/COMP_141-Project-Evaluator/blob/main/Images/Token%20List.png?raw=true)
