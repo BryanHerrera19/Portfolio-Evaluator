@@ -12,4 +12,4 @@ Takes a block of code from a small imperative language that was assigned, and ou
 each tokens type, creates an AST tree, and outputs the value of each variable.
 
 Output:
-![AST and Output](https://github.com/BryanHerrera19/COMP_141-Project-Evaluator/blob/main/Images/AST%20and%20output.png?raw=true)
+(https://github.com/BryanHerrera19/COMP_141-Project-Evaluator/blob/main/Images/AST%20and%20output.png?raw=true)
