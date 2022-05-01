@@ -13,14 +13,23 @@ each tokens type, creates an AST tree, and outputs the value of each variable.
 
 Example Input:
 if 2 * 5 - 8 then
+
   x := 0;
+  
 while x * 4 - 2 do
+
   skip
+  
 endwhile
+
 else
+
   x := 7
+  
 endif;
+
   y := 1
+  
   
 Example Output:
 
