@@ -8,5 +8,5 @@ Instructions:
 Run in command line using: python3 main.py testDriver.txt output.txt
 
 Overview:
-Takes a block of code from a small imperative language that was assigned, and outputs the
-value of each variable called.
+Takes a block of code from a small imperative language that was assigned, and outputs
+each tokens type, creates an AST tree, and outputs the value of each variable.
