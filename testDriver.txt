@@ -1,1 +1,9 @@
-3 * (5 + 2 / x - 1)
+if 2 * 5 - 8 then
+x := 0;
+while x * 4 - 2 do
+skip
+endwhile
+else
+x := 7
+endif;
+y := 1
