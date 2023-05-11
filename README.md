@@ -1,4 +1,4 @@
-# COMP_141-Project-Phase-1.1
+# COMP_141-Project-Evaluator
 COMP_141 Project Evaluator By:
 
 Bryan Herrera & Bryant Tran
